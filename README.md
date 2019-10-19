@@ -1,5 +1,7 @@
 # instantsearch.js-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/techonomics69/gametower-search.svg)](https://greenkeeper.io/)
+
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
 ## Get started
